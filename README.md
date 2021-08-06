@@ -3,7 +3,9 @@
 <h2> Sobre mim</h2>
 <p> Front-end em construção ... 👷
  
- 👨‍💻  Cursando Técnico De Informatica para Web Fullstack SENAI-SP - Antonio Souza Noschese</p>
+ 👨‍💻  Cursando Técnico De Informatica para Web Fullstack SENAI-SP - Antonio Souza Noschese
+ 👨‍💻  Cursando Analise e Desenvolvimento de Sistema Impacta Tecnologia
+</p>
 
 
 
