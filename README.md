@@ -1,25 +1,4 @@
-# Ola, sou Pedro Henrique 👋
+# Pedro Henrique Serafim Paulino
 
-<h2> Sobre mim</h2>
-<p> Front-end em construção ... 👷
- 
- 👨‍💻  Cursando Técnico De Informatica para Web Fullstack SENAI-SP - Antonio Souza Noschese</p>
-<p>
- 👨‍💻  Cursando Analise e Desenvolvimento de Sistema Impacta Tecnologia</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroHenrique013&show_icons=true&theme=radical)
 
-
-
-<!--
-**pedroHenrique013/pedroHenrique013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
