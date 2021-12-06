@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Pedro Henrique</h2>
+<h2 align="center">Olá 👋, Sou Pedro Henrique</h2>
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
