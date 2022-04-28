@@ -1,7 +1,7 @@
 <h2 align="center">Olá 👋, Sou Pedro Henrique</h2>
 <h3 align="center">Frontend Developer</h3>
 
-<div align="center">
+<div align="rigth">
 <img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif">
 </div>
 
