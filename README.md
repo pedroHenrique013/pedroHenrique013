@@ -10,6 +10,7 @@
 
 <a href="https://www.linkedin.com/in/pedro-henrique-0236491a3/" target="_blank"><img src="https://img.shields.io/badge/-Pedro_Henrique-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> <a href="henrique.netsto@gmail.com"><img src="https://img.shields.io/badge/-henrique.netsto@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
+
 - 🌱 Atualmente estou aprendendo ReactJS/UI/UX.
 - 📚 Aluno da Rocketseat - Ignite
 - 🎓 Sou formado em Técnico de Informatica Web Fullstack - SENAI 
