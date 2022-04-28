@@ -1,6 +1,6 @@
 <h2 align="center">Olá 👋, Sou Pedro Henrique</h2>
 <h3 align="center">Frontend Developer</h3>
-<div>
+<div style="display: flex">
 <div>
 <img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif">
 </div>
@@ -17,6 +17,7 @@
 - 🎓 Sou formado em Técnico de Informatica Web Fullstack - SENAI 
 - 🎓 Cursando Análise e desenvolvimento de sistemas - Faculdade Impacta de Técnologia
 <br>
+</div>
 
 <div>
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedroHenrique013&show_icons=true&theme=radical">
