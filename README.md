@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
-<img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e479mhqqiugc3ochfkph5qlu3g5s3faz4snlr095gqd&rid=giphy.gif&ct=g">
+<img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif">
 </div>
 
 <p align="left">
